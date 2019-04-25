@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-    <h2><spring:message code="hello" text="default" /></h2>     
+    <h2><spring:message code="users" text="default" /></h2>     
     
     <%@ include file = "footer.jsp" %>
 </body>
